@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hc>
+    <country code="000"/>
+    <type_document code="CC"/>
+    <number_document number="1234"/>
+    <first_surname surname=""/>
+    <second_surname surname=""/>
+    <first_name name=""/>
+    <second_name name=""/>
+    <date_birth date="20230909" />
+    <bilogical_sex gender="01"/>
+    <gender_identity identity=""/>
+    <opposition_presumption_donation  donation="0" date=""/>
+    <disability_category  category="0"/>
+    <country_residence code="000" name="COP"/>
+    <ethnicity ethnicity="01" community="AFR"/>
+    <resident_area zone="" />
+    <sgsss sgsss="999999999" />
+    <opening_date date="202309091234" />
+    <service_type type="01" group="01"/>
+    <environment environment="01" />
+    <via_access access="01" />
+</hc>
